@@ -1,0 +1,11 @@
+
+
+body{
+  background-image: linear-gradient(to right, rgb(252, 13, 13) , rgb(0, 204, 255));
+}
+h1{
+  font-family: cursive;
+  font-size: 3.8rem;
+  color:white;
+  text-shadow:2px 2px #ff0000;
+}
